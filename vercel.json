@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "https://server.sjmsd.top/json/stats.json"
+            "dest": "http://194.104.146.114:8080/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "https://server.sjmsd.top/detail"
+            "dest": "http://194.104.146.114:8080/detail"
         },
         {
             "src": "/map",
-            "dest": "https://server.sjmsd.top/map"
+            "dest": "http://194.104.146.114:8080/map"
         },
         {
             "src": "/i",
-            "dest": "https://server.sjmsd.top/i"
+            "dest": "http://194.104.146.114:8080/i"
         },
         {
             "src": "/report",
-            "dest": "https://server.sjmsd.top/report"
+            "dest": "http://194.104.146.114:8080/report"
         }
     ]
 }
